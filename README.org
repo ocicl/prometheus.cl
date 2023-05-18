@@ -1,0 +1,9 @@
+* prometheus.cl
+
+Prometheus.io Common Lisp client.
+
+|---------+--------------------------------------------------------------------------------------------------------------------------|
+| source  | git:https://github.com/deadtrickster/prometheus.cl.git                                                                   |
+| commit  | 60572b7                                                                                                                  |
+| systems | prometheus prometheus.formats.text prometheus.exposers.hunchentoot prometheus.collectors.sbcl prometheus.collectors.process prometheus.pushgateway |
+|---------+--------------------------------------------------------------------------------------------------------------------------|
